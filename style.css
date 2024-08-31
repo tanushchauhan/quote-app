@@ -8,3 +8,17 @@
 .quotes {
   text-align: center;
 }
+
+.author {
+  text-align: center;
+  font-size: 20px;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}
+
+.identify {
+  text-align: center;
+}
