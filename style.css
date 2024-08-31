@@ -1,0 +1,10 @@
+.generate {
+  border-radius: 20px;
+  font-size: 20px;
+  margin: auto;
+  display: block;
+}
+
+.quotes {
+  text-align: center;
+}
